@@ -112,7 +112,7 @@ body {
 }
 
 .slide:nth-child(3) {
-	background: url('./images/salmonencroute.jpg') no-repeat center center/cover;
+	background: url('./images/salmonencroute2.jpg') no-repeat center center/cover;
 }
 
 .slide:nth-child(4) {
@@ -124,6 +124,3 @@ body {
 	background: url('./images/pancakes.jpg') no-repeat center center/cover;
 }
 
-.slide:nth-child(6) {
-	background: url('./images/frenchtoast.jpg') no-repeat center center/cover;
-}
